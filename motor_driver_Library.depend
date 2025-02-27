@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740648724 source:c:\users\süleyman sardoðan\codeblocks\motor_driver_library\main.cpp
+	"MotorDriver.h"
+
+1740648737 c:\users\süleyman sardoðan\codeblocks\motor_driver_library\motordriver.h
+	<iostream>
+
+1740648912 source:c:\users\süleyman sardoðan\codeblocks\motor_driver_library\sourcefile.cpp
+	"MotorDriver.h"
+
